@@ -89,13 +89,15 @@ These tables are joined together to create a complete customer-level dataset.
 
 ## 📊 Key KPIs
 
-- Customer Churn Rate
-- Customer Retention Rate
-- Average Revenue Per User (ARPU)
+- Churn Rate
+- Retention Rate
+- ARPU
 - Revenue at Risk
-- Average Customer Tenure
-- Complaint Count per Customer
-- Churn Risk Classification
+- Escalation Rate
+- Average Complaints
+- Customer Tenure
+- Churn Risk
+- Correlation
 
 ---
 
