@@ -119,7 +119,7 @@ Customer-Churn-Analysis/
 │
 ├── churn_analysis.ipynb
 ├── customer_churn.db
-├── exported_churn_data.csv
+├── exported_churn_raw_data.csv
 ├── README.md
 ```
 
