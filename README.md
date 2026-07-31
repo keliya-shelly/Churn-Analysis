@@ -145,13 +145,35 @@ Customer-Churn-Analysis/
 
 ## 📌 Business Insights
 
-- Identified customer churn patterns across subscription plans.
-- Measured customer retention and revenue impact.
-- Analyzed customer complaints and escalation behavior.
-- Evaluated customer tenure and churn risk.
-- Built visual dashboards to support data-driven decision-making.
+
+• Churn Rate: 28.6% | Retention Rate: 71.4%
+• Most of the churn is from basic subscription plan – nothing to worry in terms of major revenue impact
+• Most of the churn happened in the month of Sep 2024 and, most affected state is Karnataka
+• Average Tenure (Days): 1,451 | ARPU is Rs 18.8
+• Total Revenue = 395
+• Revenue loss due to churn = 74 | CLTV Lost = 2,047
+• % Revenue loss = 18%
+• monthly vs annual churn = 55.6% vs 8.3%
+
 
 ---
+
+## Business Recommendations
+
+- Investigate the spike in customer churn in Karnataka by analyzing pricing changes, complaint trends, and technical issues.
+
+- Review any pricing or product changes made to the Basic subscription plan, particularly during September, to assess their impact on churn.
+
+- Analyze competitor offerings, as some customers cited switching to competitors as their reason for cancellation.
+
+- Prioritize customers with **High** and **Medium** churn risk by considering their Customer Lifetime Value (CLTV).
+
+- Contact high-value at-risk customers through email, SMS, or phone calls to resolve complaints and improve retention.
+
+- Monitor customer satisfaction (CSAT) and complaint trends regularly to identify potential churn risks early.
+
+ ---
+
 
 ## 🚀 Future Improvements
 
