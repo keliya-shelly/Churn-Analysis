@@ -112,6 +112,12 @@ These tables are joined together to create a complete customer-level dataset.
 
 ---
 
+## 🔥 Correlation Heatmap
+
+This heatmap shows the correlation between key customer churn variables.
+
+![Correlation Heatmap](images/correlation_heatmap.jpg)
+
 ## 📁 Project Structure
 
 ```
