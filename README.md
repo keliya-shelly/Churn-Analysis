@@ -101,15 +101,42 @@ These tables are joined together to create a complete customer-level dataset.
 
 ---
 
-## 📈 Visualizations
+# 📊 Project Visualizations
 
-- Line Chart
-- Bar Chart
-- Correlation Heatmap
-- Pair Plot
-- Catplot
-- Pivot Tables
+## 📈 Monthly Churn Trend
 
+This chart shows how customer churn changed over time, helping identify periods with the highest customer attrition.
+
+![Monthly Churn Trend](images/Monthly%20Churn%20Trend.jpg)
+
+---
+
+## 📊 Churn Rate by Plan Type
+
+This chart compares churn rates across different subscription plans, highlighting which plans are most affected.
+
+![Churn Rate](images/Churn%20Rate.jpg)
+
+---
+
+## 🗺️ Churn Rate by State
+
+This visualization highlights customer churn across different states, helping identify regions with higher churn.
+
+![Churn Rate by Country](images/Churn%20Rate(Country).jpg)
+
+---
+
+## 🔥 Correlation Heatmap
+
+This heatmap illustrates the relationships between key customer churn variables.
+
+- **Churn Score** is strongly positively correlated with **Churn Flag**.
+- **Escalations** show a positive relationship with customer churn.
+- **Contract Type** has a moderate relationship with churn behavior.
+- The heatmap helps identify variables that are most associated with customer churn.
+
+![Correlation Heatmap](images/correlation_heatmap.jpg)
 ---
 
 
