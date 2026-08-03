@@ -171,17 +171,13 @@ Customer-Churn-Analysis/
 
 ---
 
-## 📌 Business Insights
-
-
-• Churn Rate: 28.6% | Retention Rate: 71.4%
-• Most of the churn is from basic subscription plan – nothing to worry in terms of major revenue impact
-• Most of the churn happened in the month of Sep 2024 and, most affected state is Karnataka
-• Average Tenure (Days): 1,451 | ARPU is Rs 18.8
-• Total Revenue = 395
-• Revenue loss due to churn = 74 | CLTV Lost = 2,047
-• % Revenue loss = 18%
-• monthly vs annual churn = 55.6% vs 8.3%
+## 💡Business Insights
+ 
+📉 High churn scores indicate customers at greater risk of leaving.
+💰 Customers with higher monthly charges are more likely to churn.
+📞 More complaints and escalations are linked to higher churn.
+⭐ Higher customer satisfaction (CSAT) improves customer retention.
+🎯 Identifying high-risk customers enables proactive retention strategies and reduces revenue loss.
 
 
 ---
