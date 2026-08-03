@@ -173,11 +173,18 @@ Customer-Churn-Analysis/
 
 ## 💡Business Insights
  
-📉 High churn scores indicate customers at greater risk of leaving.
-💰 Customers with higher monthly charges are more likely to churn.
-📞 More complaints and escalations are linked to higher churn.
-⭐ Higher customer satisfaction (CSAT) improves customer retention.
-🎯 Identifying high-risk customers enables proactive retention strategies and reduces revenue loss.
+📈 Customer Churn Rate: 33.94%
+💙 Customer Retention Rate: 66.06%
+💰 Average Revenue Per User (ARPU): 965.69
+⚠️ Revenue at Risk: 72,769.97 due to customer churn
+
+𝗗𝗲𝘁𝗮𝗶𝗹𝗲𝗱 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:
+🔹 Compared churn across Basic, Standard, and Premium plans
+🔹 Calculated average customer tenure
+🔹 Analyzed complaint and escalation trends
+🔹 Studied the relationship between complaints, escalations, and churn using correlation analysis
+
+
 
 
 ---
