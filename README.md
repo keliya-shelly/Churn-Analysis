@@ -215,7 +215,7 @@ This chart shows how customer churn changed over time and helps identify periods
 
 This visualization compares churn rates across different subscription plans and helps identify plans with higher customer attrition.
 
-![Churn Rate by Plan Type](images/Churn%20Rate.jpg)
+![Churn Rate by Plan Type](images/Churn%20by%20Plan%20type.png)
 
 ---
 
@@ -223,7 +223,7 @@ This visualization compares churn rates across different subscription plans and 
 
 This visualization highlights customer churn across different states and helps identify regions with higher churn.
 
-![Churn Rate by State](images/Churn%20Rate(Country).jpg)
+![Churn Rate by State](images/Churn%20by%20State.png)
 
 ---
 
@@ -239,7 +239,7 @@ Key observations include:
 - **Contract Type** shows almost no correlation with **Churn Flag (0.0014)**.
 - The heatmap helps identify variables associated with customer churn.
 
-![Correlation Heatmap](images/correlation_heatmap.jpg)
+![Correlation Heatmap](images/Heatmap.png)
 
 
 ---
