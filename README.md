@@ -202,9 +202,12 @@ Created visualizations using Matplotlib and Seaborn:
 
 # 📊 Project Visualizations
 
-## 📈 Monthly Churn Trend
+---
+## 📈 Yearly Churn Trend
 
 This chart shows how customer churn changed over time and helps identify periods with higher customer attrition.
+
+![Yearly Churn Trend](images/Yearly%20Churn%20Trend.png)
 
 ---
 
@@ -212,11 +215,15 @@ This chart shows how customer churn changed over time and helps identify periods
 
 This visualization compares churn rates across different subscription plans and helps identify plans with higher customer attrition.
 
+![Churn Rate by Plan Type](images/Churn%20Rate.jpg)
+
 ---
 
 ## 🗺️ Churn Rate by State
 
 This visualization highlights customer churn across different states and helps identify regions with higher churn.
+
+![Churn Rate by State](images/Churn%20Rate(Country).jpg)
 
 ---
 
@@ -226,10 +233,14 @@ The correlation heatmap shows relationships between key variables used in the ch
 
 Key observations include:
 
-- **Churn Score** has a strong positive relationship with **Churn Flag**.
-- **Escalations** show a positive relationship with customer churn.
-- **Contract Type** shows a relationship with churn behavior.
+- **Churn Score** has a strong positive relationship with **Churn Flag (0.79)**.
+- **Churn Risk** has a strong negative relationship with **Churn Flag (-0.86)**.
+- **Escalations** show a very weak positive relationship with **Churn Flag (0.08)**.
+- **Contract Type** shows almost no correlation with **Churn Flag (0.0014)**.
 - The heatmap helps identify variables associated with customer churn.
+
+![Correlation Heatmap](images/correlation_heatmap.jpg)
+
 
 ---
 
